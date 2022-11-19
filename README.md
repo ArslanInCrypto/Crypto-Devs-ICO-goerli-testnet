@@ -1,4 +1,4 @@
-Here https://crypto-devs-ico-goerli-testnet.vercel.app/ you can check how it actually works
+Here https://crypto-devs-dao-alpha.vercel.app/ you can check how it actually works
 
 Or run the development server by:
 
